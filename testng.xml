@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="classes" thread-count="10">
+    <listeners>
+        <listener class-name="Utility.TestNGListeners"/>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="C:/Users/babas/IdeaProjects/SeleniumJavaHybrid">
+      <classes>
+          <class name="Reports.ExtentReport">
+              <methods>
+                  <include name="InitialDemo"/>
+                  <include name="TestMethod1"/>
+              </methods>
+         </class>
+          <class name="Utility.EmployeeTest"/>
+       </classes>
+  </test>
+</suite>
