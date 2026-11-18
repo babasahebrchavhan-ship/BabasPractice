@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackgroundAgentGlobalSettings">
+    <option name="selectedModelId" value="auto" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f2fc498-5582-4d98-bd3d-284a333a53dd" name="Changes" comment="Add Java collection tests and update dependencies">
+      <change afterPath="$PROJECT_DIR$/src/main/java/BasicsDemo/OopsConceptsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProgramPractice/String/occurrenceOfCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProgramPractice/String/occurrenceOfCharacterWithoutMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProgramPractice/String/rmvDupChar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ProgramPractice/String/rmvDupCharWithoutSet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BasicsDemo/JavaCollectionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BasicsDemo/JavaCollectionTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_C:/Users/babas/IdeaProjects/SeleniumJavaHybrid" value="37i1lpUJQ5LOLMim61rNk265nLs" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="37i1lpUJQ5LOLMim61rNk265nLs" />
+  <component name="ProjectSessionTemplates">
+    <option name="inlineTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+    <option name="panelTemplate">
+      <template>
+        <option name="modeId" value="Agent" />
+        <option name="model">
+          <model>
+            <option name="modelType" value="builtin_id" />
+            <option name="modelValue" value="auto" />
+          </model>
+        </option>
+        <option name="targetType" value="BACKGROUND" />
+        <option name="worktreeMode" value="WORKSPACE" />
+      </template>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Application.CssXpathPract.executor": "Run",
+    "Application.CssXpathpract.executor": "Run",
+    "Application.OopsConceptsDemo.executor": "Run",
+    "Application.Screenshots.executor": "Run",
+    "Application.TestUtilities.executor": "Run",
+    "Application.occurrenceOfCharacter.executor": "Run",
+    "Application.occurrenceOfCharacterWithoutMap.executor": "Run",
+    "Application.rmvDupChar.executor": "Run",
+    "Application.rmvDupCharWithoutSet.executor": "Run",
+    "Maven.SeleniumJavaHybrid [clean].executor": "Run",
+    "Maven.SeleniumJavaHybrid [compile].executor": "Run",
+    "Maven.SeleniumJavaHybrid [deploy].executor": "Run",
+    "Maven.SeleniumJavaHybrid [install...].executor": "Debug",
+    "Maven.SeleniumJavaHybrid [install].executor": "Run",
+    "Maven.SeleniumJavaHybrid [jar:jar].executor": "Run",
+    "Maven.SeleniumJavaHybrid [org.apache.maven.plugins:maven-clean-plugin:3.2.0:clean].executor": "Run",
+    "Maven.SeleniumJavaHybrid [package].executor": "Run",
+    "Maven.SeleniumJavaHybrid [site].executor": "Run",
+    "Maven.SeleniumJavaHybrid [test].executor": "Run",
+    "Maven.SeleniumJavaHybrid [validate].executor": "Run",
+    "Maven.SeleniumJavaHybrid [verify].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.<default>.executor": "Run",
+    "TestNG.AmazonAddCart.amazonAddCart.executor": "Run",
+    "TestNG.AmazonAddCart.executor": "Run",
+    "TestNG.C:/Users/babas/IdeaProjects/SeleniumJavaHybrid/testng.xml.executor": "Run",
+    "TestNG.CssXpathPract.Loginpage.executor": "Run",
+    "TestNG.CssXpathPract.executor": "Run",
+    "TestNG.EmployeeTest.executor": "Run",
+    "TestNG.ExtentReport.InitialDemo.executor": "Run",
+    "TestNG.ExtentReport.executor": "Run",
+    "TestNG.JavaCollectionTest.combineTwoList.executor": "Run",
+    "TestNG.JavaCollectionTest.iterateDemo.executor": "Run",
+    "TestNG.JavaCollectionTest.listIteratorTest.executor": "Run",
+    "TestNG.JavaCollectionTest.listOperations.executor": "Run",
+    "TestNG.JavaCollectionTest.stackOps.executor": "Run",
+    "TestNG.Screenshots.takeScreenshot.executor": "Run",
+    "TestNG.TestNGTest.TakeSS.executor": "Run",
+    "TestNG.TestNGTest.clearScreenshotFolder1.executor": "Run",
+    "TestNG.TestNGTest.executor": "Run",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultAutoModeForALLUsers.v1": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "copilot.chat.legacySessionMetadata.migrated": "true",
+    "dev.sweep.assistant.data.RecentlyUsedFiles": "src\\main\\java\\Utility\\TestNGListeners.java",
+    "git-widget-placeholder": "Babasaheb",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_directory_selection": "C:/Users/babas/IdeaProjects/SeleniumJavaHybrid/src/test/java",
+    "last_opened_file_path": "C:/Users/babas/IdeaProjects/SeleniumJavaHybrid/src/main/java/Base/Class",
+    "onboarding.tips.debug.path": "C:/Users/babas/IdeaProjects/SeleniumJavaHybrid/src/main/java/org/example/Main.java",
+    "settings.editor.selected.configurable": "com.dp.ai.tool.code.settings.CodeAssistSettingsConfigurable",
+    "sweep.chatMode": "Agent",
+    "to.speed.mode.migration.done": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\babas\IdeaProjects\SeleniumJavaHybrid\src\main\java\Base\Class" />
+      <recent name="C:\Users\babas\IdeaProjects\SeleniumJavaHybrid\src\main\java\Utility" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\babas\IdeaProjects\SeleniumJavaHybrid\src\main\java\Base" />
+      <recent name="C:\Users\babas\IdeaProjects\SeleniumJavaHybrid\src\main\java" />
+      <recent name="C:\Users\babas\IdeaProjects\SeleniumJavaHybrid\src\main\java\Base\Reports" />
+      <recent name="C:\Users\babas\IdeaProjects\SeleniumJavaHybrid\src\main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Utility" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Reports" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn jar:jar" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.rmvDupCharWithoutSet">
+    <configuration name="OopsConceptsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BasicsDemo.OopsConceptsDemo" />
+      <module name="SeleniumJavaHybrid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="BasicsDemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="occurrenceOfCharacter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgramPractice.String.occurrenceOfCharacter" />
+      <module name="SeleniumJavaHybrid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProgramPractice.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="occurrenceOfCharacterWithoutMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgramPractice.String.occurrenceOfCharacterWithoutMap" />
+      <module name="SeleniumJavaHybrid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProgramPractice.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rmvDupChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgramPractice.String.rmvDupChar" />
+      <module name="SeleniumJavaHybrid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProgramPractice.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rmvDupCharWithoutSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProgramPractice.String.rmvDupCharWithoutSet" />
+      <module name="SeleniumJavaHybrid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProgramPractice.String.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.rmvDupCharWithoutSet" />
+        <item itemvalue="Application.rmvDupChar" />
+        <item itemvalue="Application.occurrenceOfCharacterWithoutMap" />
+        <item itemvalue="Application.occurrenceOfCharacter" />
+        <item itemvalue="Application.OopsConceptsDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f2fc498-5582-4d98-bd3d-284a333a53dd" name="Changes" comment="" />
+      <created>1767371236558</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767371236558</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add initial project setup with configuration files and utility classes">
+      <option name="closed" value="true" />
+      <created>1792167508003</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1792167508003</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add Java collection tests and update dependencies">
+      <option name="closed" value="true" />
+      <created>1793028695911</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1793028695911</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="7c20009d-9adc-4e52-8c0e-b0e19090b460" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="7c20009d-9adc-4e52-8c0e-b0e19090b460">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Refactor TestNG tests and add Java collection examples" />
+    <MESSAGE value="Add initial project setup with configuration files and utility classes" />
+    <MESSAGE value="Add Java collection tests and update dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Java collection tests and update dependencies" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Base/Class/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
